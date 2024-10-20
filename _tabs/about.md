@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 ## Research
-In September 2021, I started doctoral studies under the supervision of [Anne Canteaut](https://www.rocq.inria.fr/secret/Anne.Canteaut/) & [Léo Perrin](https://who.paris.inria.fr/Leo.Perrin/), whithin Inria [COSMIQ](https://www.rocq.inria.fr/secret/) team.
+In September 2021, I started doctoral studies under the supervision of [Anne Canteaut](https://www.rocq.inria.fr/secret/Anne.Canteaut/) & [Léo Perrin](https://who.paris.inria.fr/Leo.Perrin/), within Inria [COSMIQ](https://www.rocq.inria.fr/secret/) team.
 
 I work on symmetric cryptography and discrete mathematics. 
 During my first years of PhD, I mainly cryptanalyzed *symmetric primitives*, especially *lightweight* ones, such as *Ascon* (winner of the NIST lightweight competition) or *Midori*.

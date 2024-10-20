@@ -223,3 +223,15 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - jekyll-scholar
+
+
+# Bibliography handling
+scholar:
+  style: apa
+  locale: en
+  sort_by: author
+  order: ascending
+  source: ./_biblio
