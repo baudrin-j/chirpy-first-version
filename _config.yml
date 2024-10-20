@@ -236,6 +236,7 @@ scholar:
   order: ascending
   source: ./_biblio
   bibliography: my_papers.bib
+  bibtex_filters: pandoc
 
 # kramdown:
 #   math_engine: katex
