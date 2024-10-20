@@ -237,5 +237,5 @@ scholar:
   source: ./_biblio
   bibliography: my_papers.bib
 
-kramdown:
-  math_engine: katex
+# kramdown:
+#   math_engine: katex
