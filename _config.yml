@@ -235,3 +235,4 @@ scholar:
   sort_by: author
   order: ascending
   source: ./_biblio
+  bibliography: my_papers.bib
