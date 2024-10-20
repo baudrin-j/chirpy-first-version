@@ -13,7 +13,7 @@ end
 
 group :jekyll_plugins do
   gem "jekyll-scholar"
-  gem "'pandoc-ruby'"
+  gem "pandoc-ruby"
   # gem "katex"
   # gem "execjs"
   # gem "therubyracer"
