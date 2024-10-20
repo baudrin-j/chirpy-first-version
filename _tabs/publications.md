@@ -10,12 +10,7 @@ katex: true
 ---
 You can find below a list of my articles that I update from time to time. Alternatively, you can find them on [Google Scholar](https://scholar.google.com/citations?user=UyENXP0AAAAJ) or [DBLP](https://dblp.uni-trier.de/pid/337/2519.html). 
 
- <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-        TeX: { equationNumbers: { autoNumber: "AMS" } }
-        });
-      </script>
-      <script type="text/javascript" async src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+{% include math.html %}
 
 THis is a first test $4 +2 = \sum_{i= 0}^{n}a_{I}$.
 
