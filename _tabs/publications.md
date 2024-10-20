@@ -13,11 +13,11 @@ You can find below a list of my articles that I update from time to time. Altern
 
 ## Journal Articles
 
-{% bibliography -q @*[keywords ~= journal] %}
+{% bibliography -f my_papers -q @*[keywords ~= journal] %}
 
 ## Conferences and Workshops
 
-{% bibliography -q @*[keywords ~= conference] %}
+{% bibliography -f my_papers -q @*[keywords ~= conference] %}
 
 
 ## Manuscripts
