@@ -10,7 +10,7 @@ pin: true
 You can find below a list of my articles that I update from time to time. Alternatively, you can find them on [Google Scholar](https://scholar.google.com/citations?user=UyENXP0AAAAJ) or [DBLP](https://dblp.uni-trier.de/pid/337/2519.html). 
 
 
-{% cite SELF:ToSC:BFLNPS23 --file papers_aio %} and {% cite SELF:ToSC:BauCanPer22 --file papers_aio %} 
+{% cite SELF:ToSC:BFLNPS23 --file my_papers %} and {% cite SELF:ToSC:BauCanPer22 --file my_papers %} 
 
 
 ## References
