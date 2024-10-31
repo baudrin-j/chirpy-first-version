@@ -94,7 +94,7 @@
   the understanding and usage of the Extended Euclidean Algorithm. Finally, the computational \
   aspects of linear algebra are tackled: addition/multiplications of matrices, computation of \
   determinants, and of course inversion."
-  website: http://defeo.lu/in310/
+  website: https://defeo.lu/in310/
 
 - crypto-m1:
   title-en: Cryptography M1
